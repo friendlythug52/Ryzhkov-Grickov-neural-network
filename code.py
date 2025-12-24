@@ -44,7 +44,7 @@ class NeuralNetworkConfig:
     DROPOUT_RATE: float = 0.3
 
     # Параметры обучения
-    EPOCHS: int = 50
+    EPOCHS: int = 100
     BATCH_SIZE: int = 128
     LEARNING_RATE: float = 0.001
     OPTIMIZER: str = 'adam'
