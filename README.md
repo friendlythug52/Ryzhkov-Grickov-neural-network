@@ -806,5 +806,3 @@ class NeuralNetworkConfig:
 ---
 
 **Авторы**: Рыжков Артём, Грицков Василий  
-**Лицензия**: MIT License  
-**Код доступен по ссылке**: [https://github.com/ваш-username/astronomy-classification](https://github.com/ваш-username/astronomy-classification)
